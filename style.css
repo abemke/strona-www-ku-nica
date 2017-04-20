@@ -6,7 +6,7 @@ html {
     height: 100%;
 }
 body {
-    background: url(../img/pic.jpg) center center no-repeat;
+    background: url(pic.jpg) center center no-repeat;
     background-size: cover;
     height: 100%;
     position: relative;
